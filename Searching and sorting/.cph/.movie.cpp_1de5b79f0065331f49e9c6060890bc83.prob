@@ -1,0 +1,1 @@
+{"name":"Local: movie","url":"d:\\CSES\\Searching and sorting\\movie.cpp","tests":[{"id":1693308265242,"input":"3\n3 5\n4 9\n5 8","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Searching and sorting\\movie.cpp","group":"local","local":true}

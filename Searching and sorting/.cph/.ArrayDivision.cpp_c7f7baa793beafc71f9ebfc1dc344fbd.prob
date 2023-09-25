@@ -1,0 +1,1 @@
+{"name":"Local: ArrayDivision","url":"d:\\CSES\\Searching and sorting\\ArrayDivision.cpp","tests":[{"id":1694863841362,"input":"5 3\n2 4 7 3 5","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Searching and sorting\\ArrayDivision.cpp","group":"local","local":true}

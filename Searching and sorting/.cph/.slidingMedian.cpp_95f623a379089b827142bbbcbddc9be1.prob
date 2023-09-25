@@ -1,0 +1,1 @@
+{"name":"Local: slidingMedian","url":"d:\\CSES\\Searching and sorting\\slidingMedian.cpp","tests":[{"id":1694441142230,"input":"8 3\n2 4 3 5 8 1 2 1","output":"3 4 5 5 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Searching and sorting\\slidingMedian.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: exponantiaion","url":"d:\\CSES\\Mathematics\\exponantiaion.cpp","tests":[{"id":1695457294094,"input":"3\n3 4\n2 8\n123 123","output":"81\n256\n921450052"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Mathematics\\exponantiaion.cpp","group":"local","local":true}

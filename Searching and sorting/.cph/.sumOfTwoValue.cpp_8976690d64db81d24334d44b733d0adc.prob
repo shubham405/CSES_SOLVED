@@ -1,0 +1,1 @@
+{"name":"Local: sumOfTwoValue","url":"d:\\CSES\\Searching and sorting\\sumOfTwoValue.cpp","tests":[{"id":1693309032198,"input":"\ninput\n1 2\n1","output":"IMPOSSIBLE"},{"id":1693309523397,"input":"3 5\n1 2 3","output":"3 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Searching and sorting\\sumOfTwoValue.cpp","group":"local","local":true}

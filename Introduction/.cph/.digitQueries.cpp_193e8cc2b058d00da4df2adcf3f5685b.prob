@@ -1,0 +1,1 @@
+{"name":"Local: digitQueries","url":"d:\\CSES\\Introduction\\digitQueries.cpp","tests":[{"id":1693217350502,"input":"3\n7\n19\n12","output":"7\n4\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Introduction\\digitQueries.cpp","group":"local","local":true}

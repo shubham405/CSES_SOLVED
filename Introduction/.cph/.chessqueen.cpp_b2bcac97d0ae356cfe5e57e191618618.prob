@@ -1,0 +1,1 @@
+{"name":"Local: chessqueen","url":"d:\\CSES\\Introduction\\chessqueen.cpp","tests":[{"id":1693209637662,"input":"........\n........\n..*.....\n........\n........\n.....**.\n...*....\n........","output":"65"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Introduction\\chessqueen.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: collectingNumber","url":"d:\\CSES\\Searching and sorting\\collectingNumber.cpp","tests":[{"id":1693770913922,"input":"5\n4 2 1 5 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Searching and sorting\\collectingNumber.cpp","group":"local","local":true}

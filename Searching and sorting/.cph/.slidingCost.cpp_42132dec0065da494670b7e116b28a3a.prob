@@ -1,0 +1,1 @@
+{"name":"Local: slidingCost","url":"d:\\CSES\\Searching and sorting\\slidingCost.cpp","tests":[{"id":1694442387036,"input":"8 3\n2 4 3 5 8 1 2 1","output":"2 2 5 7 7 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES\\Searching and sorting\\slidingCost.cpp","group":"local","local":true}
